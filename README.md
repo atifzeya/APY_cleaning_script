@@ -6,6 +6,8 @@ The script cleans and organizes the Agriculture, Production, Yield data collecte
 
 Raw excel files have been downloaded from: https://aps.dac.gov.in/APY/Index.htm
 
+Downloaded raw files from the above website stored in the folder: Raw files
+
 Script for cleaning: apy_cleaning_code.R
 
 LGD codes stored in: LGD_codes_apy.xlsx
