@@ -2,7 +2,7 @@
 
 This is part of the research work for the Bharti Institute of Public Policy, Indian School of Business.
 
-The script cleans and organizes the Agriculture, Production, Yield data collected by the Ministry of Agriculture and Farmers' welfare in machine readable format. 
+The script cleans and organizes the Area, Production, Yield data (collected by the Ministry of Agriculture and Farmers' welfare) in machine readable format. 
 
 Raw excel files have been downloaded from: https://aps.dac.gov.in/APY/Index.htm
 
